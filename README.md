@@ -18,7 +18,7 @@ Neste teste, 3 endpoints do servidor ServeRest são estudados:
 
 
 ## Como executar
-Abra o terminal, acesse a raiz do seu projeto e execute o comando 'mvn test' para rodar todos os testes.
+Abra o terminal e execute o comando 'npx serverest' para iniciar o servidor. Em seguida acesse a raiz do seu projeto e execute o comando 'mvn test' para rodar todos os testes.
 
 ## Requerimentos
 - Java (jdk)
